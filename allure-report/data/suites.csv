@@ -1,0 +1,37 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Thu Jul 09 16:48:07 CST 2020","Thu Jul 09 16:48:08 CST 2020","1070","test_case","test_postman_api","","","","test_timestamp[6-30-7-30-True]","
+    用例描述：测试不同的timestamp和target
+    "
+"passed","Thu Jul 09 16:47:59 CST 2020","Thu Jul 09 16:48:00 CST 2020","1005","test_case","test_postman_api","","","","test_timestamp[2016-10-2018-12-True]","
+    用例描述：测试不同的timestamp和target
+    "
+"broken","Thu Jul 09 16:48:11 CST 2020","Thu Jul 09 16:48:12 CST 2020","1134","test_case","test_postman_api","","","","test_timestamp[abc-2019-6-30-False]","
+    用例描述：测试不同的timestamp和target
+    "
+"broken","Thu Jul 09 16:48:04 CST 2020","Thu Jul 09 16:48:05 CST 2020","1379","test_case","test_postman_api","","","","test_timestamp[2019-12-33-2019-6-30-False]","
+    用例描述：测试不同的timestamp和target
+    "
+"passed","Thu Jul 09 16:47:58 CST 2020","Thu Jul 09 16:47:59 CST 2020","1372","test_case","test_postman_api","","","","test_timestamp[2016-10-10-2018-12-13-True]","
+    用例描述：测试不同的timestamp和target
+    "
+"failed","Thu Jul 09 16:48:12 CST 2020","Thu Jul 09 16:48:14 CST 2020","1104","test_case","test_postman_api","","","","test_timestamp[20190501-2019-6-30-False]","
+    用例描述：测试不同的timestamp和target
+    "
+"passed","Thu Jul 09 16:48:08 CST 2020","Thu Jul 09 16:48:10 CST 2020","2138","test_case","test_postman_api","","","","test_timestamp[2017-2018-True]","
+    用例描述：测试不同的timestamp和target
+    "
+"broken","Thu Jul 09 16:48:10 CST 2020","Thu Jul 09 16:48:11 CST 2020","1144","test_case","test_postman_api","","","","test_timestamp[--False]","
+    用例描述：测试不同的timestamp和target
+    "
+"passed","Thu Jul 09 16:48:03 CST 2020","Thu Jul 09 16:48:04 CST 2020","1145","test_case","test_postman_api","","","","test_timestamp[2016-10-10-2019-12-33-False]","
+    用例描述：测试不同的timestamp和target
+    "
+"broken","Thu Jul 09 16:48:05 CST 2020","Thu Jul 09 16:48:07 CST 2020","1179","test_case","test_postman_api","","","","test_timestamp[-2019-6-30-False]","
+    用例描述：测试不同的timestamp和target
+    "
+"passed","Thu Jul 09 16:48:02 CST 2020","Thu Jul 09 16:48:03 CST 2020","1044","test_case","test_postman_api","","","","test_timestamp[2016-10-10-2015-12-13-False]","
+    用例描述：测试不同的timestamp和target
+    "
+"passed","Thu Jul 09 16:48:00 CST 2020","Thu Jul 09 16:48:01 CST 2020","1053","test_case","test_postman_api","","","","test_timestamp[2016-10-10-2018-13-13-False]","
+    用例描述：测试不同的timestamp和target
+    "
